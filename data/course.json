@@ -1,0 +1,31 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Social Science",
+      "Psychology"
+    ],
+    [
+      "Science",
+      "Cognitive Science"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "d8e238b9-572a-1350-b105-64bcc323d658"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Evolutionary Psychology",
+  "course_description": "Current research on the evolution and development of cognition and affect, including intuitive physics, biology, and psychology, language, emotions, sexuality, and social relations.\n",
+  "department_numbers": [
+    "9"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "9.250",
+  "learning_resource_types": [
+    "Presentation Assignments",
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
